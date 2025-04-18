@@ -248,5 +248,27 @@ extended durations, proving its suitability for underground deployment.
 
 pictures:
 
+gas detection:
+
+![IMG-20250411-WA0064](https://github.com/user-attachments/assets/0a267af8-ecd3-4e9f-ac16-c267cd73fffd)
+
+![IMG-20250417-WA0023](https://github.com/user-attachments/assets/1ef81f44-c58a-45d1-b911-ea67d9ad495b)
+
+
+emergency switch:
+
+![IMG-20250411-WA0064](https://github.com/user-attachments/assets/c6025d19-66ac-4e55-b24a-1ab16d6bb8cb)
+
+![IMG-20250411-WA0060](https://github.com/user-attachments/assets/3b54e9d3-c017-4efb-8280-43189e6cca9e)
+
+serial monitor outputs:
+
+![IMG-20250406-WA0000](https://github.com/user-attachments/assets/80143258-d0bf-405e-a449-1b658b9254f4)
+![IMG-20250406-WA0001](https://github.com/user-attachments/assets/9a28b5cb-e975-42e6-b019-1f2aeeb50d20)
+![IMG-20250406-WA0002](https://github.com/user-attachments/assets/db34fe4a-16af-4b9b-a380-09fc914a8e2b)
+![IMG-20250406-WA0003](https://github.com/user-attachments/assets/5b4d8356-7c2f-49b5-974f-eef8ac09ec59)
+![IMG-20250406-WA0004](https://github.com/user-attachments/assets/ac31883f-9a8f-45b3-be7c-eca876b57c87)
+![IMG-20250406-WA0005](https://github.com/user-attachments/assets/71e66561-7cc4-4f72-ade9-41d15c82a0d5)
+
 
 
