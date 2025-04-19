@@ -1,4 +1,4 @@
-# Wireless_Surveillance_and_Safety_System_for_Mine_Worker_Using_RF_final_-year_project
+# Wireless_Surveillance_and_Safety_System_for_Mine_Worker_Using_RF_final_year_project
 
 DESIGN:
 This project focuses on developing a wireless surveillance and safety system specifically designed for coal mining environments. The system leverages Radio Frequency (RF) technology to establish reliable communication between underground mining units and a central monitoring station on the surface. It includes integrated sensors to monitor critical environmental parameters such as gas levels (e.g., methane, carbon monoxide), temperature, and humidity, as well as real-time location tracking of workers.
